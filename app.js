@@ -1,5 +1,5 @@
-let your_exes = [ 'Lucy', 'Tara', 'Sarah' ];
+let exes = [ 'Tracy', 'Cynthia', 'Allie' ];
 
-for (ex of your_exes) {
+for (ex in exes) {
 	console.log(ex);
 }
