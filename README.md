@@ -1,3 +1,3 @@
 # Git_Testing
-This is a simple rep to demonstrate the Git/GitHub Workflow
+This is a simple repo to demonstrate the Git/GitHub Workflow
 
